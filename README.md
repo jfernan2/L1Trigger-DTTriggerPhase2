@@ -1,1 +1,1 @@
-# L1Trigger-DTTriggerPhase2
+# L1Trigger-DTPhase2Trigger
